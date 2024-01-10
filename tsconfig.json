@@ -17,8 +17,7 @@
     "outDir":"./lib"
   },
   "include": [
-    "features/**/*.ts",
-    "tests/**/*.ts"
+    "**/*.ts"
   ],
   "exclude": [
     "node_modules"
