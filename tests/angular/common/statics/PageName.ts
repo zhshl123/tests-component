@@ -1,0 +1,5 @@
+export const BROWSE_INSPECTION_REPORT = 'Browse Inspection Report'
+export const CREATE_INSPECTION_REPORT = 'Create Inspection Report'
+export const BROWSE_ASSET = 'Browse Assets'
+export const BROWSE_VENDOR = 'Browse Vendors'
+export const BROWSE_RESOURCE = 'Browse Resources'

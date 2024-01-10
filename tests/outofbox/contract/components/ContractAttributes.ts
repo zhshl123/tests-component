@@ -1,0 +1,31 @@
+
+export const contractAttributesMap = new Map()
+contractAttributesMap.set('Contract Type', 'ContractTypeOfService')
+contractAttributesMap.set('Contract No.', 'ContractID')
+contractAttributesMap.set('Contract Name', 'ContractName')
+contractAttributesMap.set('Prime Contractor', 'VendorAutoID')
+contractAttributesMap.set('Contract Status', 'ContractStatusID')
+contractAttributesMap.set('Award Date', 'AwardDate')
+contractAttributesMap.set('Signed Date', 'SignedDate')
+contractAttributesMap.set('NTP Date', 'NTPDate')
+contractAttributesMap.set('Substantial Completion Date', 'SubstantialCompletionDate')
+contractAttributesMap.set('Final Completion Date', 'FinalCompletionDate')
+contractAttributesMap.set('Contact Person', 'ContractPerson')
+contractAttributesMap.set('Description', 'Description')
+contractAttributesMap.set('Contract Total Amount', 'CtrTotalAmtParentPlusSub')
+contractAttributesMap.set('DBE Participation Goal', 'DBEParticipationGoal')
+contractAttributesMap.set('Retainage Rate', 'RetainageRate')
+contractAttributesMap.set('Maximum Retainage Percentage', 'MaxRetainageRate')
+contractAttributesMap.set('Start Date', 'BeginDate')
+contractAttributesMap.set('Duration', 'Duration')
+contractAttributesMap.set('End Date', 'EndDate')
+contractAttributesMap.set('Start Date', 'BeginDate')
+contractAttributesMap.set('Parent Contract', 'ParentContractAutoID')
+contractAttributesMap.set('Contract Number','cstm_ContractNumber')
+
+
+contractAttributesMap.set('Vendor ID', 'VendorID')
+contractAttributesMap.set('Project Name', 'ProjectName')
+contractAttributesMap.set('Fund ID', 'FundID')
+
+

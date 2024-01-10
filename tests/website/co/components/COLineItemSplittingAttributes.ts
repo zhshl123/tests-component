@@ -1,0 +1,5 @@
+export const COLineItemAplittingAttributeMap = new Map()
+COLineItemAplittingAttributeMap.set('Project', 'ImplementedProjectAutoID')
+COLineItemAplittingAttributeMap.set('Fund', 'FundID')
+COLineItemAplittingAttributeMap.set('Amount', 'SourceAmount')
+COLineItemAplittingAttributeMap.set('Percentage', 'Percentage')

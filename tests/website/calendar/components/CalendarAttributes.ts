@@ -1,0 +1,5 @@
+export const calendarAttributeMap= new Map()
+calendarAttributeMap.set('Calendar Name', 'CalendarName')
+calendarAttributeMap.set('Standard Working Hours', 'Timespan')
+calendarAttributeMap.set('Hours Per Day', 'HoursPerDay')
+calendarAttributeMap.set('Note', 'Note')

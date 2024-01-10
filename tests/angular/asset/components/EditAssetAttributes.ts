@@ -1,0 +1,13 @@
+export const editAssetAttributeMap = new Map()
+editAssetAttributeMap.set('Asset ID', 'assets-assetid')
+editAssetAttributeMap.set('Asset Name', 'assets-assetname')
+editAssetAttributeMap.set('Asset Type', 'assets-assettypeid')
+editAssetAttributeMap.set('Parent Asset','assets-parentassetautoid')
+editAssetAttributeMap.set('Asset Status', 'assets-assetstatusid')
+editAssetAttributeMap.set('Asset Category', 'assets-nodeid')
+editAssetAttributeMap.set('Acquisition Code', 'assets-acquisitioncodeid')
+editAssetAttributeMap.set('Acquisition Date', 'assets-acquisitiondate')
+editAssetAttributeMap.set('Placement Date', 'assets-placementdate')
+editAssetAttributeMap.set('Description','assets-description')
+
+editAssetAttributeMap.set('Original Value', 'assets-originalvalue1')

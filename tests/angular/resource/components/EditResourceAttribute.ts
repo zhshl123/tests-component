@@ -1,0 +1,5 @@
+export const editResourceAttributeMap = new Map()
+editResourceAttributeMap.set('Resource ID','resources-resourceid')
+editResourceAttributeMap.set('Resource Name','resources-resourcename')
+editResourceAttributeMap.set('Resource Type', 'resources-resourcetypeid')
+editResourceAttributeMap.set('Status','resources-isactive1')

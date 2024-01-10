@@ -1,0 +1,23 @@
+
+export const vendorAttributeMap = new Map()
+
+vendorAttributeMap.set('Munis Vendor ID', 'VendorID')
+vendorAttributeMap.set('Vendor Name', 'VendorName')
+vendorAttributeMap.set('Vendor Type', 'cstm_VendorType')
+vendorAttributeMap.set('Vendor Tier', 'VendorTierID')
+vendorAttributeMap.set('Retainage Rate', 'RetainageRate')
+vendorAttributeMap.set('Status', 'IsActive')
+vendorAttributeMap.set('Street 1', 'Address1')
+vendorAttributeMap.set('Street 2', 'Address2')
+vendorAttributeMap.set('Street 3', 'Address3')
+vendorAttributeMap.set('City', 'City')
+vendorAttributeMap.set('State', 'StateID')
+vendorAttributeMap.set('Zip Code', 'Zip')
+vendorAttributeMap.set('Country','CountryID')
+vendorAttributeMap.set('Fax', 'Fax')
+vendorAttributeMap.set('Contact Person1 Email', 'Email')
+vendorAttributeMap.set('Website', 'Website')
+vendorAttributeMap.set('Contact Person 1', 'ContactPerson')
+vendorAttributeMap.set('Contact Person Phone 1','ContactPersonPhone')
+vendorAttributeMap.set('Description', 'Notes')
+

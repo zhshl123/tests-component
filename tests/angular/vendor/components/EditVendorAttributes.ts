@@ -1,0 +1,8 @@
+export const editVendorAttributeMap = new Map()
+editVendorAttributeMap.set('Vendor ID', 'vendors-vendorid')
+editVendorAttributeMap.set('Vendor Name','vendors-vendorname')
+editVendorAttributeMap.set('Vendor Tier','vendors-vendortierid')
+editVendorAttributeMap.set('Status','vendors-isactive')
+editVendorAttributeMap.set('Street 1','vendors-address1')
+editVendorAttributeMap.set('Country','vendors-countryid1')
+editVendorAttributeMap.set('State','vendors-stateid1')

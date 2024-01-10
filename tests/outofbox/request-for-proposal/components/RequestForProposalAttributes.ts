@@ -1,0 +1,7 @@
+export const requestForProposalAttributesMap = new Map()
+requestForProposalAttributesMap.set('Primary Project', 'PImpProjAutoID')
+requestForProposalAttributesMap.set('Primary Contract', 'PContractAutoID')
+requestForProposalAttributesMap.set('Subject', 'SubjectDesc')
+requestForProposalAttributesMap.set('RFP ID', 'ChangeNumber')
+requestForProposalAttributesMap.set('Project Name', 'ProjectName')
+requestForProposalAttributesMap.set('Contract Name', 'ContractName')

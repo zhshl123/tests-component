@@ -1,0 +1,7 @@
+import { EditFromFields, SearchFromFields } from "../../common/abstract";
+export declare class EditCSPFields extends EditFromFields {
+    entityMap: Map<string, string>;
+    constructor(entityMap: any);
+}
+export declare const csp: EditCSPFields;
+export declare const browseCsp: SearchFromFields;
